@@ -3,6 +3,10 @@
 - 👋 Hi, I’m @AhmadRaza9
 - 🌱 I’m currently learning Plugin and Theme Development
 - 📫 How to reach me: https://ahmedraza.dev
+- Facebook  https://www.facebook.com/ahmad.raza.ataki
+- Instagram https://www.instagram.com/ahmad_._rajpoot/
+- Linkedin  https://www.linkedin.com/in/ahmadrajput/
+- Twitter   https://twitter.com/ahmad_raza_420
 <!--
 **AhmadRaza9/AhmadRaza9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
