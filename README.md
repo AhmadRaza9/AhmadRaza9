@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @AhmadRaza9 ![](https://komarev.com/ghpvc/?username=your-github-username)
+- 👋 Hi, I’m @AhmadRaza9 ![](https://komarev.com/ghpvc/?username=your-github-username) ![](https://komarev.com/ghpvc/?username=AhmadRaza9&label=Visitors&color=0e75b6&style=flat)
 - 🌱 Currently I’m learning React ![Alt text](https://ahmedraza.dev/wp-content/uploads/2024/05/react-logo-25x23-1.png)
 - 📫 How to reach me: https://ahmedraza.dev
 - Facebook  https://www.facebook.com/ahmad.raza.ataki
@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
