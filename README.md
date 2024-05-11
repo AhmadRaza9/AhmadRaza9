@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @AhmadRaza9 ![](https://komarev.com/ghpvc/?username=your-github-username)
-- 🌱 I’m currently learning Plugin and Theme Development
+- 🌱 Currently I’m learning React ![Alt text](https://ahmedraza.dev/wp-content/uploads/2024/05/react-logo.png)
 - 📫 How to reach me: https://ahmedraza.dev
 - Facebook  https://www.facebook.com/ahmad.raza.ataki
 - Instagram https://www.instagram.com/ahmad_._rajpoot/
